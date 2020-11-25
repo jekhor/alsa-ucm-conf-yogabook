@@ -1,0 +1,16 @@
+Source: alsa-ucm-conf-yogabook
+Section: libs
+Priority: optional
+Maintainer: Yauhen Kharuzhy <jekhor@gmail.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.0
+Vcs-Browser: https://github.com/jekhor/alsa-ucm-conf-yogabook
+Vcs-Git: https://github.com/jekhor/alsa-ucm-conf-yogabook.git
+Rules-Requires-Root: no
+
+Package: alsa-ucm-conf-yogabook
+Architecture: all
+Depends: ${misc:Depends}, alsa-ucm-conf
+Description: ALSA Use Case Manager configuration files for Lenovo Yoga Book
+ This package contains ALSA Use Case Manager configuration files needed to get
+ sound at Lenovo Yoga Book tablet working.
