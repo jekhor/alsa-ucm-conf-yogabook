@@ -1,3 +1,9 @@
+alsa-ucm-conf-yogabook (1.1) unstable; urgency=medium
+
+  * Copy Platform{Enable,Disable}Seq.conf from alsa-ucm-conf package to prevent incompatibility with new ALSA
+
+ -- Yauhen Kharuzhy <jekhor@gmail.com>  Fri, 25 Dec 2020 23:56:00 +0300
+
 alsa-ucm-conf-yogabook (1.0) unstable; urgency=medium
 
   * Initial Release.
