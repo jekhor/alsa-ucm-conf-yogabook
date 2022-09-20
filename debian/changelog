@@ -1,3 +1,9 @@
+alsa-ucm-conf-yogabook (1.2) unstable; urgency=medium
+
+  * Adjust ADC Boost and Volume level for DMIC1 usage
+
+ -- Yauhen Kharuzhy <jekhor@gmail.com>  Tue, 20 Sep 2022 16:00:57 +0300
+
 alsa-ucm-conf-yogabook (1.1) unstable; urgency=medium
 
   * Copy Platform{Enable,Disable}Seq.conf from alsa-ucm-conf package to prevent incompatibility with new ALSA
