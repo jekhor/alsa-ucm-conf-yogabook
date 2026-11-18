@@ -1,3 +1,9 @@
+alsa-ucm-conf-yogabook (1.5) unstable; urgency=medium
+
+  * Add cht-rt5677 UCM mapping for Linux 7.3.4 Yoga Book audio
+
+ -- Lawrence Frias <lawrence.frias@gmail.com>  Wed, 18 Nov 2026 01:28:20 +0100
+
 alsa-ucm-conf-yogabook (1.4) unstable; urgency=medium
 
   * Fix cht-yogabook conf.d link
